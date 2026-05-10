@@ -230,5 +230,8 @@ def main():
     root.mainloop()
 
 
+    #检查一下是否git同步上了
+
+
 if __name__ == "__main__":
     main()
